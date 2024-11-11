@@ -29,5 +29,7 @@ export default {
 * Optionally, add `plugin:@typescript-eslint/stylistic-type-checked`.
 * Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` and `plugin:react/jsx-runtime` to the `extends` list.
 
+Live Site from Render:
+https://candidate-search-eltm.onrender.com/
 ---
 © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
